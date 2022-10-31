@@ -16,8 +16,9 @@ SDK-枪战特训-1.2.2-64Bit<br>
 SDK-G1S-64Bit<br>
 SDK-InfinityWave-2.06-64Bit<br>
 SDK-ActionRPG-3.0-64Bit<br>
-
-SDK Count: 14
+SDK-IGCE-2.2.3-32Bit<br>
+SDK-Hunters-0.15.1-64Bit<br>
+SDK Count: 16
 
 # Channel
 https://t.me/pubg_xiaohei
